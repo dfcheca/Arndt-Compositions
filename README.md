@@ -6,9 +6,11 @@ Here you will find the code files for my thesis 'Arndt Compositions: Connections
 
 ## Abstract
 
-Abstract taken from the text:
+_Abstract taken from the text:_
 
 Arndt compositions are those integer compositions $(x_1, \ldots, x_k)$ such that $x_{2i-1} > x_{2i}$ for all $i > 0$. [Hopkins and Tangboonduangjit](https://www.fq.math.ca/Papers1/60-5/hopkins.pdf) proved that for each positive integer $n$, there are $f_n$ Arndt compositions, where $f_n$ is the $n$-th Fibonacci number. This project aims to provide an alternative proof of this result using generating functions and analytically explore some statistics and generalizations of this combinatorial object. The studied statistics encompass the number of summands, the size of the last and the first summands, the size of the largest and smallest summands, and the number of interior lattice points and semiperimeter associated with the bar graph of each composition. The results are diverse, including an unpublished identity of Fibonacci numbers and new combinatorial interpretations of some sequences.
+
+_Keywords:_ Arndt, Integer, Compositions, Partitions, Fibonacci, Generating functions, Statistics, Generalizations.
 
 ## About the Code Files
 
