@@ -2,6 +2,8 @@
 
 ## Welcome!
 
+My name is Daniel Checa.
+
 Here you will find the code files for my thesis 'Arndt Compositions: Connections with Fibonacci Numbers, Statistics, and Generalizations,' as well as the **[document's PDF](https://nbviewer.org/github/dfcheca/Arndt-Compositions/blob/042347cdc9cd74db8adee3f11960baf03e011986/document/Checa%2C%20Daniel%20F.%20%282023%29%20-%20Arndt%20Compositions%2C%20Connections%20with%20Fibonacci%20Numbers%2C%20Statistics%20and%20Generalizations.pdf)**.
 
 ## Abstract
@@ -22,6 +24,10 @@ I recommend using Wolfram Mathematica version 12.1 or higher to fully utilize al
 ## About the PDF
 
 Here is the latest version of the document sent to my faculty; however, it may contain typos, which I plan to add over time. How do I plan to do this? To be honest, I find it reasonable to add this list of errors to a separate file. If I decide to modify the PDF due to a significant error or a long series of errors, I will inform appropriately and host both the original and modified versions, duly marked.
+
+## How to cite?
+
+If you need to cite this document, please copy the link of this repository: https://github.com/dfcheca/Arndt-Compositions/.
 
 ## Errors
 
