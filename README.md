@@ -12,6 +12,9 @@ Arndt compositions are those integer compositions $(x_1, \ldots, x_k)$ such that
 
 _Keywords:_ Arndt, Integer, Compositions, Partitions, Fibonacci, Generating functions, Statistics, Generalizations.
 
+_This work led to some of the results shown in the article "[Arndt compositions: a generating functions approach](
+https://doi.org/10.48550/arXiv.2311.15388)"_
+
 ## About the Code Files
 
 I recommend using Wolfram Mathematica version 12.1 or higher to fully utilize all the described packages and symbols. If you don't have a license, all these can be replicated in the free version of Wolfram Cloud. I am a supporter of open-source software, but this program comes with specific and easy-to-use built-in functions. Perhaps in the not-too-distant future, I may consider creating analogous files in SageMath, but I make no promises.
