@@ -4,7 +4,7 @@
 
 My name is Daniel Checa.
 
-Here you will find the code files for my thesis 'Arndt Compositions: Connections with Fibonacci Numbers, Statistics, and Generalizations,' as well as the **[document's PDF](https://nbviewer.org/github/dfcheca/Arndt-Compositions/blob/f619e695984007a7fdb21b73b3ea37b9bb98fc1a/document/Checa%2C%20Daniel%20F.%20%282023%29%20-%20Arndt%20Compositions%2C%20Connections%20with%20Fibonacci%20Numbers%2C%20Statistics%20and%20Generalizations.pdf)**.
+Here you will find the code files for my thesis 'Arndt Compositions: Connections with Fibonacci Numbers, Statistics, and Generalizations,' as well as the **[document's PDF](https://oeis.org/A000045/a000045_3.pdf)**.
 
 ## Abstract
 
@@ -27,7 +27,20 @@ Here is the latest version of the document sent to my faculty; however, it may c
 
 ## How to cite?
 
-If you need to cite this document, please copy the link of this repository: https://github.com/dfcheca/Arndt-Compositions/.
+If you need to cite this document, do so as follows (APA 7):
+
+Checa, D. F. (2023). _Arndt Compositions: Connections with Fibonacci Numbers, Statistics, and Generalizations (Thesis)_. Universidad Nacional de Colombia. Retrieved from https://oeis.org/A000045/a000045_3.pdf.
+
+BibTeX:
+
+@masterthesis{Checa2023,
+  author = {Daniel F. Checa},
+  title = {Arndt Compositions: Connections with Fibonacci Numbers, Statistics, and Generalizations},
+  type = {Bachelor's Thesis},
+  school = {Universidad Nacional de Colombia},
+  year = {2023},
+  url = {https://oeis.org/A000045/a000045_3.pdf},
+}
 
 ## Errors
 
